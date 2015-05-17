@@ -13,7 +13,7 @@
         <skos:hasTopConcept rdf:resource="http://explore.dublincore.net/vocabs/subject/0027" />
     </skos:ConceptScheme>
     
-    <!-- NOTE: URIs: 0001-000 -->
+    <!-- NOTE: CURRENT URI RANGE: 0001-0027 -->
     
     <skos:Concept rdf:about="http://explore.dublincore.net/vocabs/subject/0001">
         <skos:inScheme rdf:resource="http://explore.dublincore.net/vocabs/subject/" />
